@@ -53,7 +53,7 @@ Aby zaimportować projekt do MIT App Inventor:
 2. Wybierz plik projektu.
 
 A, i jeszcze jedno:
-Jeśli zechcesz opublikować Twoją zmodyfikowaną wersję na platformie GitHub, upewnij się, że tworzysz **gałąź (branch)** do oryginału :)
+Jeśli zechcesz opublikować Twoją zmodyfikowaną wersję na platformie GitHub, upewnij się, że tworzysz **gałąź (fork)** do oryginału :)
 
 # Planowane funkcje:
 - 1.1.2 - możliwość (od)blokowywania zmiany orientacji ekranu
