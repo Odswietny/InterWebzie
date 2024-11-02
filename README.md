@@ -56,5 +56,5 @@ A, i jeszcze jedno:
 Jeśli zechcesz opublikować Twoją zmodyfikowaną wersję na platformie GitHub, upewnij się, że tworzysz **gałąź (branch)** do oryginału :)
 
 # Planowane funkcje:
-1.1.2 - możliwość (od)blokowywania zmiany orientacji ekranu
-1.2 - wsparcie dla języka angielskiego
+- 1.1.2 - możliwość (od)blokowywania zmiany orientacji ekranu
+- 1.2 - wsparcie dla języka angielskiego
