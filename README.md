@@ -58,3 +58,6 @@ Jeśli zechcesz opublikować Twoją zmodyfikowaną wersję na platformie GitHub,
 # Planowane funkcje:
 - 1.1.2 - możliwość (od)blokowywania zmiany orientacji ekranu
 - 1.2 - wsparcie dla języka angielskiego
+
+# Problem?
+W przypadku problemów możesz skontaktować się ze mną: **odswietny@gmail.com**
