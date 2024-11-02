@@ -38,7 +38,7 @@ Oto kilka ważnych kwestii dotyczących bezpieczeństwa i prywatności:
 InterWebzie to **otwartoźródłowa** aplikacja na system Android. Możesz pobrać **plik projektu MIT App Inventor (*.aia)** z tego repozytorium GitHub.
 
 Jeśli zechcesz zmodyfikować i rozpowszechnić ten projekt, dołącz informacje o oryginalnej aplikacji wspominając **nazwę i wersję bazowej aplikacji** w opcjach i/lub w sekcji o aplikacji. Na przykład:
-> Oparte na InterWebzie 1.1.1
+_"Oparte na InterWebzie 1.1.1"_
 To podejście pomaga upewnić się, że pochodzenie aplikacji jest jasne i że należycie odniesiono się do oryginalnego projektu.
 
 **Plik projektu MIT App Inventor** zawiera:
